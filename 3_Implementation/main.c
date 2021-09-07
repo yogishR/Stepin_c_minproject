@@ -40,6 +40,7 @@ int main() {
     case 4:
       printf("Enter two number");
       scanf("%d %d",&n1,&n2);
+      printf("%d %d",n1,n2);
      ans = division(n1,n2);    //calling division function
      printf("answer=%d",ans);
 
