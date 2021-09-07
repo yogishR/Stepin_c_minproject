@@ -1,4 +1,4 @@
-# Project Information
+# Simple Calculator
 # SDLC Activity Based Learning
 
 [![Unit Testing - Unity](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/unity.yml/badge.svg)](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/unity.yml) [![Contribution Check - Git Inspector](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/codeinspector.yml)  [![Static Code Quality- Cppcheck](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/cpp.yml)  ![Code Quality Score](https://www.code-inspector.com/project/27777/score/svg) ![Code Badge](https://www.code-inspector.com/project/27777/status/svg)
