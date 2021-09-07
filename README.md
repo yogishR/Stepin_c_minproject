@@ -8,6 +8,8 @@ which I'm Implementing ,also included three additional operations such as Factor
 
 The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas, in another word it is implemented with the
 order of precedence logic.
+  
+This system only for integer inputs
 # SDLC Activity Based Learning
 Build | Code Quality | Git Inspector | code quality score | code grade |
 |---------|------------|-------------|--------------------|------------
