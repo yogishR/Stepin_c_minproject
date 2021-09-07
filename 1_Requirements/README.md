@@ -55,6 +55,11 @@ threat in the upcoming dynamic world.
 ## LOW LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- |
+|LLR01|For invalid inputs system should terminate|Technical|
+|LLR02|The system should calulate for intiger value only|Technical|
+|LLR03|Every fuction must return output as integer value|Technical|
+|LLR04|Every function must return error message|Technical|
+|LLR05|User must be Guided to enter integer input|Technical|
 
 
 
