@@ -5,7 +5,7 @@ PROJECT_NAME = Calculator
 BUILD = build
 
 # All source code files
-#SRC =src/addition.c\
+SRC =src/addition.c\
 src/subtraction.c\
 src/division.c\
 src/modules.c\
